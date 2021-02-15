@@ -1,0 +1,19 @@
+{
+  "name": "edu-vuepress",
+  "version": "0.0.1",
+  "description": "First touch",
+  "main": "index.js",
+  "authors": {
+    "name": "Ondra",
+    "email": "ondra@ondrejpolach.cz"
+  },
+  "repository": "https://github.com/ondrejpolach/edu-vuepress.git/edu-vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
